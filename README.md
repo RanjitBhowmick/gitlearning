@@ -1,2 +1,0 @@
-# gitlearning
-This repository is for learning Git
